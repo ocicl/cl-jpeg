@@ -4,6 +4,6 @@ A Common Lisp library for reading and writing JPEG image files
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/sharplispers/cl-jpeg.git |
-| commit  | bef2c3b                                         |
+| commit  | cd92e94                                         |
 | systems | cl-jpeg                                         |
 |---------+-------------------------------------------------|
