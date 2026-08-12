@@ -7,3 +7,4 @@ A Common Lisp library for reading and writing JPEG image files
 | commit  | cd92e94                                         |
 | systems | cl-jpeg                                         |
 |---------+-------------------------------------------------|
+ 
